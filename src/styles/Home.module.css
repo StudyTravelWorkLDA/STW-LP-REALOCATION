@@ -1,0 +1,155 @@
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #06213A;
+}
+.main h1{
+  color:white;
+}
+.header{
+  max-width: 1520px;
+  text-align: center;
+  margin-top:-220px;
+}
+.mainFormVideo{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 12px;
+  flex-wrap: wrap;
+
+}
+.video{
+  margin-left:24px;
+  width: 680px;
+  height: 450px;
+}
+@media (max-width:1360px) {
+  .header{
+    max-width: 1520px;
+    text-align: center;
+    margin-top:0;
+  }
+  .mainFormVideo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .main {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #06213A;
+  }
+  
+}
+
+@media (max-width:920px) {
+  .mainFormVideo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+@media (max-width:700px) {
+  
+  .video{
+    width: 450px;
+  }
+}
+@media(max-width:460px){
+  .video{
+    display: none;
+  }
+}
+.mainFormVideo form{
+  display: flex;
+  flex-direction: column;
+  
+}
+.form{
+  width: 350px;
+  text-align: center;
+  height: 380px;
+  color:#06213A;
+  background: white
+}
+
+.form input{
+  background: #EFEFEF;
+  border-radius:4px;
+  border:none;
+  font-size: .9rem;
+  font-weight: bold;
+  color:#06213A
+}
+.form input::placeholder{
+  color:#06213A
+}
+.form select{
+  background: #EFEFEF;
+  border-radius:4px;
+  border:none;
+  font-size: .9rem;
+  font-weight: bold;
+  color:#06213A
+}
+.form button{
+  border-radius:33px;
+  border:none;
+  height: 45px;
+  background:#FFA01C;
+}
+.form input,.form select,.form button{
+  width: 70%;
+  margin: 4px auto;
+  padding: 16px;
+}
+
+
+
+
+
+.containerdefault{
+  margin-top:0;
+  background:url('/images/fundobanner.png');
+  height: 550px;
+  text-align: center;
+}
+.containerdefault h2{
+  padding:24px
+}
+.containerdefault div{
+  display: flex;
+  max-width: 1320px;
+  margin:0 auto;
+  height: 350px;
+}
+.footer {
+  background:#06213A;
+  border-top: 1px solid #eaeaea;
+  
+}
+.footer > div{
+    max-width: 1520px;
+    margin: 0 auto;
+    padding: 4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer a {
+  display: block;
+}
+.icons{
+  display:flex;
+}

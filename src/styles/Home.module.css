@@ -95,6 +95,10 @@
 .form input::placeholder{
   color:#06213A
 }
+.form input:read-only{
+  background:#ccc;
+  cursor: not-allowed;
+}
 .form select{
   background: #EFEFEF;
   border-radius:4px;
@@ -108,6 +112,12 @@
   border:none;
   height: 45px;
   background:#FFA01C;
+  cursor: pointer;
+}
+.form button:disabled{
+  color: #06213acc;
+  background:#FFA01Caa;
+  cursor:not-allowed
 }
 .form input,.form select,.form button{
   width: 70%;

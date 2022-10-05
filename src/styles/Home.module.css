@@ -1,177 +1,172 @@
-
 .main {
   min-height: 100vh;
   padding: 4rem 0;
   height: 100%;
-  
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #06213A;
+  background: #06213a;
 }
-.main h1{
-  color:white;
+.main h1 {
+  color: white;
 }
-.header{
+.header {
   max-width: 1520px;
   width: 100%;
   text-align: center;
 }
-.header h1{
+.header h1 {
   font-size: 2.2em;
 }
-.mainFormVideo{
-  display:flex;
-  flex-direction:row;
+.mainFormVideo {
+  display: flex;
+  flex-direction: row;
   width: 80%;
-  margin-top:76px;
-
+  margin-top: 76px;
 }
-.video{
-  margin-left:24px;
+.video {
+  margin-left: 24px;
   max-width: 850px;
-  width:100%;
+  width: 100%;
   height: 420px;
-  border:none;
+  border: none;
 }
-.vimeo{
+.vimeo {
   width: 100%;
   height: 100%;
 }
 
-
-.mainFormVideo form{
+.mainFormVideo form {
   display: flex;
   flex-direction: column;
-  
 }
-.form{
-  
+.form {
   max-width: 320px;
   width: 100%;
   text-align: center;
-  color:#06213A;
+  color: #06213a;
   padding: 30px 24px;
-  background: white
+  background: white;
 }
 
-.form input{
-  background: #EFEFEF;
-  border-radius:4px;
-  border:none;
-  font-size: .9rem;
+.form input {
+  background: #efefef;
+  border-radius: 4px;
+  border: none;
+  font-size: 0.9rem;
   font-weight: bold;
-  color:#06213A
+  color: #06213a;
 }
-.form input::placeholder{
-  color:#06213A
+.form input::placeholder {
+  color: #06213a;
 }
-.form input:read-only{
-  background:#ccc;
+.form input:read-only {
+  background: #ccc;
   cursor: not-allowed;
 }
-.form select{
-  background: #EFEFEF;
-  border-radius:4px;
-  border:none;
-  font-size: .9rem;
+.form select {
+  background: #efefef;
+  border-radius: 4px;
+  border: none;
+  font-size: 0.9rem;
   font-weight: bold;
-  color:#06213A
+  color: #06213a;
 }
-.form button{
-  border-radius:50px;
-  border:none;
-  background:#FFA01C;
+.form button {
+  border-radius: 50px;
+  border: none;
+  background: #ffa01c;
   cursor: pointer;
   font-weight: bold;
-  color:#06213A;
+  color: #06213a;
   font-size: 18px;
   transition: 500ms;
 }
-.form button:hover{
+.form button:hover {
   filter: brightness(80%);
 }
-.form button:disabled{
+.form button:disabled {
   color: #06213acc;
-  background:#FFA01Caa;
-  cursor:not-allowed
+  background: #ffa01caa;
+  cursor: not-allowed;
 }
 .form input,
 .form select,
-.form button{
+.form button {
   width: 100%;
   margin: 8px auto;
   padding: 16px;
 }
 
-.form h2{
-  font-size:20px;
-  color: #06213A;
+.form h2 {
+  font-size: 20px;
+  color: #06213a;
   text-align: left;
   margin-bottom: 10px;
 }
 
-
-.containerdefault{
-  margin-top:0;
-  background:url('/images/fundobanner.png');
+.containerdefault {
+  margin-top: 0;
+  background: url("/images/fundobanner.png");
   height: 550px;
   text-align: center;
 }
-.containerdefault h2{
-  padding:24px
+.containerdefault h2 {
+  padding: 24px;
 }
-.containerdefault div{
+.containerdefault div {
   display: flex;
   max-width: 1320px;
-  margin:0 auto;
+  margin: 0 auto;
   height: 350px;
 }
 .footer {
-  background:#06213A;
+  background: #06213a;
   border-top: 1px solid #eaeaea;
-  
 }
-.footer > div{
-    max-width: 1520px;
-    margin: 0 auto;
-    padding: 4rem;
-    display: flex;
-    justify-content: space-between;
+.footer > div {
+  max-width: 1520px;
+  margin: 0 auto;
+  padding: 4rem;
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer a {
   display: block;
 }
-.icons{
-  display:flex;
+.icons {
+  display: flex;
 }
 
-
-
-@media (max-width:1360px) {
-
-  .mainFormVideo{
-    display:flex;
-    flex-direction:column-reverse;
-    align-items:center;
-    justify-content:center;
+@media (max-width: 1360px) {
+  .mainFormVideo {
+    flex-direction: column-reverse;
+  }
+  .video {
+    margin-left: 0px;
+    max-width: 624px;
+  }
+  .form {
+    max-width: 624px;
+  }
+}
+@media (max-width: 740px) {
+  .mainFormVideo {
+    margin: 0;
   }
   .video{
-    margin-left:0px;
-    margin-bottom: 30px;
-    max-width: 624px;
+    height: 200px
   }
-  .form{
-    max-width: 624px;
-  }
-  
 }
 
-
-@media(max-width:460px){
-  .video{
-    display: none;
+@media (max-width: 460px) {
+  .video {
+    margin-bottom: 5px;
+  }
+  .mainFormVideo {
+    margin-top: 0px !important;
   }
 }

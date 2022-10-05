@@ -1,14 +1,18 @@
 
 import Head from 'next/head'
 import Image from 'next/image'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { BannerCarousel } from '../components/BannerCarousel'
 import { apiSIGA } from '../services/axios'
 import styles from '../styles/Home.module.css'
 import toast from "react-hot-toast";
-import Vimeo from '@u-wave/react-vimeo';
+import paises from '../data/paises.json'
 
 export default function Home() {
+  const [listCountrys, setListCountrys] = useState([]);
+  useEffect(() => {
+    setListCountrys(paises)
+  }, []);
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -75,13 +79,17 @@ export default function Home() {
                 readOnly={success}
               />
 
-              <input
-                type="text"
-                placeholder='Telefone     (+55) 00 00000-0000'
-                value={phone}
-                onChange={e => setPhone(e.target.value)}
-                readOnly={success}
-              />
+              <div>
+
+                <input
+                  type="text"
+                  placeholder='Telefone     (+55) 00 00000-0000'
+                  value={phone}
+                  onChange={e => setPhone(e.target.value)}
+                  readOnly={success}
+                />
+
+              </div>
 
 
               {success === false ? (<button

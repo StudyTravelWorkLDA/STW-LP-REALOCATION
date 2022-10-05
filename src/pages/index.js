@@ -116,7 +116,6 @@ export default function Home() {
             <iframe
               className={styles.vimeo}
               src="https://player.vimeo.com/video/751205972?h=75b80bbe82&autoplay=1&title=0&portrait=0"
-              frameborder="0"
               allow="autoplay; picture-in-picture"
               allowfullscreen
             >

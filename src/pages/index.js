@@ -57,8 +57,8 @@ export default function Home() {
         </header>
         <div className={styles.mainFormVideo}>
           <div className={styles.form}>
-            <h3>Agende agora<br />
-              um consulta gratuita</h3>
+            <h2>Agende agora<br />
+              um consulta gratuita</h2>
             <form onSubmit={handleSubmit}>
               <input
                 type="text"

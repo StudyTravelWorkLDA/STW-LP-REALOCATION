@@ -6,7 +6,7 @@ import { BannerCarousel } from '../components/BannerCarousel'
 import { apiSIGA } from '../services/axios'
 import styles from '../styles/Home.module.css'
 import toast from "react-hot-toast";
-
+import Vimeo from '@u-wave/react-vimeo';
 
 export default function Home() {
 
@@ -100,10 +100,13 @@ export default function Home() {
               )}
             </form>
           </div>
-
-          <iframe className={styles.video} src="https://player.vimeo.com/video/751205972?h=75b80bbe82&autoplay=1&title=0&portrait=0" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen>
-
-          </iframe>
+          <div className={styles.video}>
+            <Vimeo
+              video="751205972"
+              autoplay
+              height={420}
+            />
+          </div>
         </div>
 
       </main>
@@ -113,13 +116,13 @@ export default function Home() {
           <BannerCarousel />
         </div>
       </div> */}
-      <footer className={styles.footer}>
+      {/* <footer className={styles.footer}>
         <div>
           <div>
             <Image src="/images/logowhite.png" alt="stw Logo" width={150} height={45} />
           </div>
           <div className={styles.icons}>
-            {/* <a href="https://www.instagram.com/stw.pt/" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/stw.pt/" target="_blank" rel="noreferrer">
               <Image src="/images/insta.png" alt="stw Logo" width={45} height={45} />
             </a>
             <a>
@@ -130,11 +133,11 @@ export default function Home() {
             </a>
             <a href="https://www.linkedin.com/company/study-travel-work-portuguese/mycompany/" target="_blank" rel="noreferrer">
               <Image src="/images/linkedin.png" alt="stw Logo" width={45} height={45} />
-            </a> */}
+            </a>
 
           </div>
         </div>
-      </footer>
+      </footer> */}
     </div>
   )
 }

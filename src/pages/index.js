@@ -83,15 +83,7 @@ export default function Home() {
                 readOnly={success}
               />
 
-              <select>
-                <option selected disabled>Selecione o serviço de interesse</option>
-                <option>Arrendamentos e alojamento</option>
-                <option>Tramites Legais</option>
-                <option>Personal Shopper</option>
-                <option>Matricula em instituições de Ensino</option>
-                <option>Transfer | Deslocamento</option>
-                <option>Procura de Estagio ou Trabalho</option>
-              </select>
+
               {success === false ? (<button
                 type='submit'
                 disabled={loading}
@@ -115,19 +107,19 @@ export default function Home() {
         </div>
 
       </main>
-      <div className={styles.containerdefault}>
+      {/* <div className={styles.containerdefault}>
         <h2>Veja o que nossos clientes estão falando:</h2>
         <div>
           <BannerCarousel />
         </div>
-      </div>
+      </div> */}
       <footer className={styles.footer}>
         <div>
           <div>
             <Image src="/images/logowhite.png" alt="stw Logo" width={150} height={45} />
           </div>
           <div className={styles.icons}>
-            <a href="https://www.instagram.com/stw.pt/" target="_blank" rel="noreferrer">
+            {/* <a href="https://www.instagram.com/stw.pt/" target="_blank" rel="noreferrer">
               <Image src="/images/insta.png" alt="stw Logo" width={45} height={45} />
             </a>
             <a>
@@ -138,7 +130,7 @@ export default function Home() {
             </a>
             <a href="https://www.linkedin.com/company/study-travel-work-portuguese/mycompany/" target="_blank" rel="noreferrer">
               <Image src="/images/linkedin.png" alt="stw Logo" width={45} height={45} />
-            </a>
+            </a> */}
 
           </div>
         </div>

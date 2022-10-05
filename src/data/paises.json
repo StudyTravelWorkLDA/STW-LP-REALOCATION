@@ -1,1724 +1,1418 @@
 [
-  {
-      "ordem": 1,
-      "nome": "Afeganistão",
-      "sigla2": "AF",
-      "sigla3": "AFG",
-      "codigo": "004"
-  },
-  {
-      "ordem": 2,
-      "nome": "África do Sul",
-      "sigla2": "ZA",
-      "sigla3": "ZAF",
-      "codigo": "710"
-  },
-  {
-      "ordem": 3,
-      "nome": "Albânia",
-      "sigla2": "AL",
-      "sigla3": "ALB",
-      "codigo": "008"
-  },
-  {
-      "ordem": 4,
-      "nome": "Alemanha",
-      "sigla2": "DE",
-      "sigla3": "DEU",
-      "codigo": "276"
-  },
-  {
-      "ordem": 5,
-      "nome": "Andorra",
-      "sigla2": "AD",
-      "sigla3": "AND",
-      "codigo": "020"
-  },
-  {
-      "ordem": 6,
-      "nome": "Angola",
-      "sigla2": "AO",
-      "sigla3": "AGO",
-      "codigo": "024"
-  },
-  {
-      "ordem": 7,
-      "nome": "Anguilla",
-      "sigla2": "AI",
-      "sigla3": "AIA",
-      "codigo": "660"
-  },
-  {
-      "ordem": 8,
-      "nome": "Antártida",
-      "sigla2": "AQ",
-      "sigla3": "ATA",
-      "codigo": "010"
-  },
-  {
-      "ordem": 9,
-      "nome": "Antígua e Barbuda",
-      "sigla2": "AG",
-      "sigla3": "ATG",
-      "codigo": "028"
-  },
-  {
-      "ordem": 10,
-      "nome": "Antilhas Holandesas",
-      "sigla2": "AN",
-      "sigla3": "ANT",
-      "codigo": "530"
-  },
-  {
-      "ordem": 11,
-      "nome": "Arábia Saudita",
-      "sigla2": "SA",
-      "sigla3": "SAU",
-      "codigo": "682"
-  },
-  {
-      "ordem": 12,
-      "nome": "Argélia",
-      "sigla2": "DZ",
-      "sigla3": "DZA",
-      "codigo": "012"
-  },
-  {
-      "ordem": 13,
-      "nome": "Argentina",
-      "sigla2": "AR",
-      "sigla3": "ARG",
-      "codigo": "032"
-  },
-  {
-      "ordem": 14,
-      "nome": "Armênia",
-      "sigla2": "AM",
-      "sigla3": "ARM",
-      "codigo": "51"
-  },
-  {
-      "ordem": 15,
-      "nome": "Aruba",
-      "sigla2": "AW",
-      "sigla3": "ABW",
-      "codigo": "533"
-  },
-  {
-      "ordem": 16,
-      "nome": "Austrália",
-      "sigla2": "AU",
-      "sigla3": "AUS",
-      "codigo": "036"
-  },
-  {
-      "ordem": 17,
-      "nome": "Áustria",
-      "sigla2": "AT",
-      "sigla3": "AUT",
-      "codigo": "040"
-  },
-  {
-      "ordem": 18,
-      "nome": "Azerbaijão",
-      "sigla2": "AZ  ",
-      "sigla3": "AZE",
-      "codigo": "31"
-  },
-  {
-      "ordem": 19,
-      "nome": "Bahamas",
-      "sigla2": "BS",
-      "sigla3": "BHS",
-      "codigo": "044"
-  },
-  {
-      "ordem": 20,
-      "nome": "Bahrein",
-      "sigla2": "BH",
-      "sigla3": "BHR",
-      "codigo": "048"
-  },
-  {
-      "ordem": 21,
-      "nome": "Bangladesh",
-      "sigla2": "BD",
-      "sigla3": "BGD",
-      "codigo": "050"
-  },
-  {
-      "ordem": 22,
-      "nome": "Barbados",
-      "sigla2": "BB",
-      "sigla3": "BRB",
-      "codigo": "052"
-  },
-  {
-      "ordem": 23,
-      "nome": "Belarus",
-      "sigla2": "BY",
-      "sigla3": "BLR",
-      "codigo": "112"
-  },
-  {
-      "ordem": 24,
-      "nome": "Bélgica",
-      "sigla2": "BE",
-      "sigla3": "BEL",
-      "codigo": "056"
-  },
-  {
-      "ordem": 25,
-      "nome": "Belize",
-      "sigla2": "BZ",
-      "sigla3": "BLZ",
-      "codigo": "084"
-  },
-  {
-      "ordem": 26,
-      "nome": "Benin",
-      "sigla2": "BJ",
-      "sigla3": "BEN",
-      "codigo": "204"
-  },
-  {
-      "ordem": 27,
-      "nome": "Bermudas",
-      "sigla2": "BM",
-      "sigla3": "BMU",
-      "codigo": "060"
-  },
-  {
-      "ordem": 28,
-      "nome": "Bolívia",
-      "sigla2": "BO",
-      "sigla3": "BOL",
-      "codigo": "068"
-  },
-  {
-      "ordem": 29,
-      "nome": "Bósnia-Herzegóvina",
-      "sigla2": "BA",
-      "sigla3": "BIH",
-      "codigo": "070"
-  },
-  {
-      "ordem": 30,
-      "nome": "Botsuana",
-      "sigla2": "BW",
-      "sigla3": "BWA",
-      "codigo": "072"
-  },
-  {
-      "ordem": 31,
-      "nome": "Brasil",
-      "sigla2": "BR",
-      "sigla3": "BRA",
-      "codigo": "076"
-  },
-  {
-      "ordem": 32,
-      "nome": "Brunei",
-      "sigla2": "BN",
-      "sigla3": "BRN",
-      "codigo": "096"
-  },
-  {
-      "ordem": 33,
-      "nome": "Bulgária",
-      "sigla2": "BG",
-      "sigla3": "BGR",
-      "codigo": "100"
-  },
-  {
-      "ordem": 34,
-      "nome": "Burkina Fasso",
-      "sigla2": "BF",
-      "sigla3": "BFA",
-      "codigo": "854"
-  },
-  {
-      "ordem": 35,
-      "nome": "Burundi",
-      "sigla2": "BI",
-      "sigla3": "BDI",
-      "codigo": "108"
-  },
-  {
-      "ordem": 36,
-      "nome": "Butão",
-      "sigla2": "BT",
-      "sigla3": "BTN",
-      "codigo": "064"
-  },
-  {
-      "ordem": 37,
-      "nome": "Cabo Verde",
-      "sigla2": "CV",
-      "sigla3": "CPV",
-      "codigo": "132"
-  },
-  {
-      "ordem": 38,
-      "nome": "Camarões",
-      "sigla2": "CM",
-      "sigla3": "CMR",
-      "codigo": "120"
-  },
-  {
-      "ordem": 39,
-      "nome": "Camboja",
-      "sigla2": "KH",
-      "sigla3": "KHM",
-      "codigo": "116"
-  },
-  {
-      "ordem": 40,
-      "nome": "Canadá",
-      "sigla2": "CA",
-      "sigla3": "CAN",
-      "codigo": "124"
-  },
-  {
-      "ordem": 41,
-      "nome": "Cazaquistão",
-      "sigla2": "KZ",
-      "sigla3": "KAZ",
-      "codigo": "398"
-  },
-  {
-      "ordem": 42,
-      "nome": "Chade",
-      "sigla2": "TD",
-      "sigla3": "TCD",
-      "codigo": "148"
-  },
-  {
-      "ordem": 43,
-      "nome": "Chile",
-      "sigla2": "CL",
-      "sigla3": "CHL",
-      "codigo": "152"
-  },
-  {
-      "ordem": 44,
-      "nome": "China",
-      "sigla2": "CN",
-      "sigla3": "CHN",
-      "codigo": "156"
-  },
-  {
-      "ordem": 45,
-      "nome": "Chipre",
-      "sigla2": "CY",
-      "sigla3": "CYP",
-      "codigo": "196"
-  },
-  {
-      "ordem": 46,
-      "nome": "Cingapura",
-      "sigla2": "SG",
-      "sigla3": "SGP",
-      "codigo": "702"
-  },
-  {
-      "ordem": 47,
-      "nome": "Colômbia",
-      "sigla2": "CO",
-      "sigla3": "COL",
-      "codigo": "170"
-  },
-  {
-      "ordem": 48,
-      "nome": "Congo",
-      "sigla2": "CG",
-      "sigla3": "COG",
-      "codigo": "178"
-  },
-  {
-      "ordem": 49,
-      "nome": "Coréia do Norte",
-      "sigla2": "KP",
-      "sigla3": "PRK",
-      "codigo": "408"
-  },
-  {
-      "ordem": 50,
-      "nome": "Coréia do Sul",
-      "sigla2": "KR",
-      "sigla3": "KOR",
-      "codigo": "410"
-  },
-  {
-      "ordem": 51,
-      "nome": "Costa do Marfim",
-      "sigla2": "CI",
-      "sigla3": "CIV",
-      "codigo": "384"
-  },
-  {
-      "ordem": 52,
-      "nome": "Costa Rica",
-      "sigla2": "CR",
-      "sigla3": "CRI",
-      "codigo": "188"
-  },
-  {
-      "ordem": 53,
-      "nome": "Croácia (Hrvatska)",
-      "sigla2": "HR",
-      "sigla3": "HRV",
-      "codigo": "191"
-  },
-  {
-      "ordem": 54,
-      "nome": "Cuba",
-      "sigla2": "CU",
-      "sigla3": "CUB",
-      "codigo": "192"
-  },
-  {
-      "ordem": 55,
-      "nome": "Dinamarca",
-      "sigla2": "DK",
-      "sigla3": "DNK",
-      "codigo": "208"
-  },
-  {
-      "ordem": 56,
-      "nome": "Djibuti",
-      "sigla2": "DJ",
-      "sigla3": "DJI",
-      "codigo": "262"
-  },
-  {
-      "ordem": 57,
-      "nome": "Dominica",
-      "sigla2": "DM",
-      "sigla3": "DMA",
-      "codigo": "212"
-  },
-  {
-      "ordem": 58,
-      "nome": "Egito",
-      "sigla2": "EG",
-      "sigla3": "EGY",
-      "codigo": "818"
-  },
-  {
-      "ordem": 59,
-      "nome": "El Salvador",
-      "sigla2": "SV",
-      "sigla3": "SLV",
-      "codigo": "222"
-  },
-  {
-      "ordem": 60,
-      "nome": "Emirados Árabes Unidos",
-      "sigla2": "AE",
-      "sigla3": "ARE",
-      "codigo": "784"
-  },
-  {
-      "ordem": 61,
-      "nome": "Equador",
-      "sigla2": "EC",
-      "sigla3": "ECU",
-      "codigo": "218"
-  },
-  {
-      "ordem": 62,
-      "nome": "Eritréia",
-      "sigla2": "ER",
-      "sigla3": "ERI",
-      "codigo": "232"
-  },
-  {
-      "ordem": 63,
-      "nome": "Eslováquia",
-      "sigla2": "SK",
-      "sigla3": "SVK",
-      "codigo": "703"
-  },
-  {
-      "ordem": 64,
-      "nome": "Eslovênia",
-      "sigla2": "SI",
-      "sigla3": "SVN",
-      "codigo": "705"
-  },
-  {
-      "ordem": 65,
-      "nome": "Espanha",
-      "sigla2": "ES",
-      "sigla3": "ESP",
-      "codigo": "724"
-  },
-  {
-      "ordem": 66,
-      "nome": "Estados Unidos",
-      "sigla2": "US",
-      "sigla3": "USA",
-      "codigo": "840"
-  },
-  {
-      "ordem": 67,
-      "nome": "Estônia",
-      "sigla2": "EE",
-      "sigla3": "EST",
-      "codigo": "233"
-  },
-  {
-      "ordem": 68,
-      "nome": "Etiópia",
-      "sigla2": "ET",
-      "sigla3": "ETH",
-      "codigo": "231"
-  },
-  {
-      "ordem": 69,
-      "nome": "Fiji",
-      "sigla2": "FJ",
-      "sigla3": "FJI",
-      "codigo": "242"
-  },
-  {
-      "ordem": 70,
-      "nome": "Filipinas",
-      "sigla2": "PH",
-      "sigla3": "PHL",
-      "codigo": "608"
-  },
-  {
-      "ordem": 71,
-      "nome": "Finlândia",
-      "sigla2": "FI",
-      "sigla3": "FIN",
-      "codigo": "246"
-  },
-  {
-      "ordem": 72,
-      "nome": "França",
-      "sigla2": "FR",
-      "sigla3": "FRA",
-      "codigo": "250"
-  },
-  {
-      "ordem": 73,
-      "nome": "Gabão",
-      "sigla2": "GA",
-      "sigla3": "GAB",
-      "codigo": "266"
-  },
-  {
-      "ordem": 74,
-      "nome": "Gâmbia",
-      "sigla2": "GM",
-      "sigla3": "GMB",
-      "codigo": "270"
-  },
-  {
-      "ordem": 75,
-      "nome": "Gana",
-      "sigla2": "GH",
-      "sigla3": "GHA",
-      "codigo": "288"
-  },
-  {
-      "ordem": 76,
-      "nome": "Geórgia",
-      "sigla2": "GE",
-      "sigla3": "GEO",
-      "codigo": "268"
-  },
-  {
-      "ordem": 77,
-      "nome": "Gibraltar",
-      "sigla2": "GI",
-      "sigla3": "GIB",
-      "codigo": "292"
-  },
-  {
-      "ordem": 78,
-      "nome": "Grã-Bretanha (Reino Unido, UK)",
-      "sigla2": "GB",
-      "sigla3": "GBR",
-      "codigo": "826"
-  },
-  {
-      "ordem": 79,
-      "nome": "Granada",
-      "sigla2": "GD",
-      "sigla3": "GRD",
-      "codigo": "308"
-  },
-  {
-      "ordem": 80,
-      "nome": "Grécia",
-      "sigla2": "GR",
-      "sigla3": "GRC",
-      "codigo": "300"
-  },
-  {
-      "ordem": 81,
-      "nome": "Groelândia",
-      "sigla2": "GL",
-      "sigla3": "GRL",
-      "codigo": "304"
-  },
-  {
-      "ordem": 82,
-      "nome": "Guadalupe",
-      "sigla2": "GP",
-      "sigla3": "GLP",
-      "codigo": "312"
-  },
-  {
-      "ordem": 83,
-      "nome": "Guam (Território dos Estados Unidos)",
-      "sigla2": "GU",
-      "sigla3": "GUM",
-      "codigo": "316"
-  },
-  {
-      "ordem": 84,
-      "nome": "Guatemala",
-      "sigla2": "GT",
-      "sigla3": "GTM",
-      "codigo": "320"
-  },
-  {
-      "ordem": 85,
-      "nome": "Guernsey",
-      "sigla2": "G",
-      "sigla3": "GGY",
-      "codigo": "832"
-  },
-  {
-      "ordem": 86,
-      "nome": "Guiana",
-      "sigla2": "GY",
-      "sigla3": "GUY",
-      "codigo": "328"
-  },
-  {
-      "ordem": 87,
-      "nome": "Guiana Francesa",
-      "sigla2": "GF",
-      "sigla3": "GUF",
-      "codigo": "254"
-  },
-  {
-      "ordem": 88,
-      "nome": "Guiné",
-      "sigla2": "GN",
-      "sigla3": "GIN",
-      "codigo": "324"
-  },
-  {
-      "ordem": 89,
-      "nome": "Guiné Equatorial",
-      "sigla2": "GQ",
-      "sigla3": "GNQ",
-      "codigo": "226"
-  },
-  {
-      "ordem": 90,
-      "nome": "Guiné-Bissau",
-      "sigla2": "GW",
-      "sigla3": "GNB",
-      "codigo": "624"
-  },
-  {
-      "ordem": 91,
-      "nome": "Haiti",
-      "sigla2": "HT",
-      "sigla3": "HTI",
-      "codigo": "332"
-  },
-  {
-      "ordem": 92,
-      "nome": "Holanda",
-      "sigla2": "NL",
-      "sigla3": "NLD",
-      "codigo": "528"
-  },
-  {
-      "ordem": 93,
-      "nome": "Honduras",
-      "sigla2": "HN",
-      "sigla3": "HND",
-      "codigo": "340"
-  },
-  {
-      "ordem": 94,
-      "nome": "Hong Kong",
-      "sigla2": "HK",
-      "sigla3": "HKG",
-      "codigo": "344"
-  },
-  {
-      "ordem": 95,
-      "nome": "Hungria",
-      "sigla2": "HU",
-      "sigla3": "HUN",
-      "codigo": "348"
-  },
-  {
-      "ordem": 96,
-      "nome": "Iêmen",
-      "sigla2": "YE",
-      "sigla3": "YEM",
-      "codigo": "887"
-  },
-  {
-      "ordem": 97,
-      "nome": "Ilha Bouvet (Território da Noruega)",
-      "sigla2": "BV",
-      "sigla3": "BVT",
-      "codigo": "074"
-  },
-  {
-      "ordem": 98,
-      "nome": "Ilha do Homem",
-      "sigla2": "IM",
-      "sigla3": "IMN",
-      "codigo": "833"
-  },
-  {
-      "ordem": 99,
-      "nome": "Ilha Natal",
-      "sigla2": "CX",
-      "sigla3": "CXR",
-      "codigo": "162"
-  },
-  {
-      "ordem": 100,
-      "nome": "Ilha Pitcairn",
-      "sigla2": "PN",
-      "sigla3": "PCN",
-      "codigo": "612"
-  },
-  {
-      "ordem": 101,
-      "nome": "Ilha Reunião",
-      "sigla2": "RE",
-      "sigla3": "REU",
-      "codigo": "638"
-  },
-  {
-      "ordem": 102,
-      "nome": "Ilhas Aland",
-      "sigla2": "AX",
-      "sigla3": "ALA",
-      "codigo": "248"
-  },
-  {
-      "ordem": 103,
-      "nome": "Ilhas Cayman",
-      "sigla2": "KY",
-      "sigla3": "CYM",
-      "codigo": "136"
-  },
-  {
-      "ordem": 104,
-      "nome": "Ilhas Cocos",
-      "sigla2": "CC",
-      "sigla3": "CCK",
-      "codigo": "166"
-  },
-  {
-      "ordem": 105,
-      "nome": "Ilhas Comores",
-      "sigla2": "KM",
-      "sigla3": "COM",
-      "codigo": "174"
-  },
-  {
-      "ordem": 106,
-      "nome": "Ilhas Cook",
-      "sigla2": "CK",
-      "sigla3": "COK",
-      "codigo": "184"
-  },
-  {
-      "ordem": 107,
-      "nome": "Ilhas Faroes",
-      "sigla2": "FO",
-      "sigla3": "FRO",
-      "codigo": "234"
-  },
-  {
-      "ordem": 108,
-      "nome": "Ilhas Falkland (Malvinas)",
-      "sigla2": "FK",
-      "sigla3": "FLK",
-      "codigo": "238"
-  },
-  {
-      "ordem": 109,
-      "nome": "Ilhas Geórgia do Sul e Sandwich do Sul",
-      "sigla2": "GS",
-      "sigla3": "SGS",
-      "codigo": "239"
-  },
-  {
-      "ordem": 110,
-      "nome": "Ilhas Heard e McDonald (Território da Austrália)",
-      "sigla2": "HM",
-      "sigla3": "HMD",
-      "codigo": "334"
-  },
-  {
-      "ordem": 111,
-      "nome": "Ilhas Marianas do Norte",
-      "sigla2": "MP",
-      "sigla3": "MNP",
-      "codigo": "580"
-  },
-  {
-      "ordem": 112,
-      "nome": "Ilhas Marshall",
-      "sigla2": "MH",
-      "sigla3": "MHL",
-      "codigo": "584"
-  },
-  {
-      "ordem": 113,
-      "nome": "Ilhas Menores dos Estados Unidos",
-      "sigla2": "UM",
-      "sigla3": "UMI",
-      "codigo": "581"
-  },
-  {
-      "ordem": 114,
-      "nome": "Ilhas Norfolk",
-      "sigla2": "NF",
-      "sigla3": "NFK",
-      "codigo": "574"
-  },
-  {
-      "ordem": 115,
-      "nome": "Ilhas Seychelles",
-      "sigla2": "SC",
-      "sigla3": "SYC",
-      "codigo": "690"
-  },
-  {
-      "ordem": 116,
-      "nome": "Ilhas Solomão",
-      "sigla2": "SB",
-      "sigla3": "SLB",
-      "codigo": "090"
-  },
-  {
-      "ordem": 117,
-      "nome": "Ilhas Svalbard e Jan Mayen",
-      "sigla2": "SJ",
-      "sigla3": "SJM",
-      "codigo": "744"
-  },
-  {
-      "ordem": 118,
-      "nome": "Ilhas Tokelau",
-      "sigla2": "TK",
-      "sigla3": "TKL",
-      "codigo": "772"
-  },
-  {
-      "ordem": 119,
-      "nome": "Ilhas Turks e Caicos",
-      "sigla2": "TC",
-      "sigla3": "TCA",
-      "codigo": "796"
-  },
-  {
-      "ordem": 120,
-      "nome": "Ilhas Virgens (Estados Unidos)",
-      "sigla2": "VI",
-      "sigla3": "VIR",
-      "codigo": "850"
-  },
-  {
-      "ordem": 121,
-      "nome": "Ilhas Virgens (Inglaterra)",
-      "sigla2": "VG",
-      "sigla3": "VGB",
-      "codigo": "092"
-  },
-  {
-      "ordem": 122,
-      "nome": "Ilhas Wallis e Futuna",
-      "sigla2": "WF",
-      "sigla3": "WLF",
-      "codigo": "876"
-  },
-  {
-      "ordem": 123,
-      "nome": "índia",
-      "sigla2": "IN",
-      "sigla3": "IND",
-      "codigo": "356"
-  },
-  {
-      "ordem": 124,
-      "nome": "Indonésia",
-      "sigla2": "ID",
-      "sigla3": "IDN",
-      "codigo": "360"
-  },
-  {
-      "ordem": 125,
-      "nome": "Irã",
-      "sigla2": "IR",
-      "sigla3": "IRN",
-      "codigo": "364"
-  },
-  {
-      "ordem": 126,
-      "nome": "Iraque",
-      "sigla2": "IQ",
-      "sigla3": "IRQ",
-      "codigo": "368"
-  },
-  {
-      "ordem": 127,
-      "nome": "Irlanda",
-      "sigla2": "IE",
-      "sigla3": "IRL",
-      "codigo": "372"
-  },
-  {
-      "ordem": 128,
-      "nome": "Islândia",
-      "sigla2": "IS",
-      "sigla3": "ISL",
-      "codigo": "352"
-  },
-  {
-      "ordem": 129,
-      "nome": "Israel",
-      "sigla2": "IL",
-      "sigla3": "ISR",
-      "codigo": "376"
-  },
-  {
-      "ordem": 130,
-      "nome": "Itália",
-      "sigla2": "IT",
-      "sigla3": "ITA",
-      "codigo": "380"
-  },
-  {
-      "ordem": 131,
-      "nome": "Jamaica",
-      "sigla2": "JM",
-      "sigla3": "JAM",
-      "codigo": "388"
-  },
-  {
-      "ordem": 132,
-      "nome": "Japão",
-      "sigla2": "JP",
-      "sigla3": "JPN",
-      "codigo": "392"
-  },
-  {
-      "ordem": 133,
-      "nome": "Jersey",
-      "sigla2": "JE",
-      "sigla3": "JEY",
-      "codigo": "832"
-  },
-  {
-      "ordem": 134,
-      "nome": "Jordânia",
-      "sigla2": "JO",
-      "sigla3": "JOR",
-      "codigo": "400"
-  },
-  {
-      "ordem": 135,
-      "nome": "Kênia",
-      "sigla2": "KE",
-      "sigla3": "KEN",
-      "codigo": "404"
-  },
-  {
-      "ordem": 136,
-      "nome": "Kiribati",
-      "sigla2": "KI",
-      "sigla3": "KIR",
-      "codigo": "296"
-  },
-  {
-      "ordem": 137,
-      "nome": "Kuait",
-      "sigla2": "KW",
-      "sigla3": "KWT",
-      "codigo": "414"
-  },
-  {
-      "ordem": 138,
-      "nome": "Laos",
-      "sigla2": "LA",
-      "sigla3": "LAO",
-      "codigo": "418"
-  },
-  {
-      "ordem": 139,
-      "nome": "Látvia",
-      "sigla2": "LV",
-      "sigla3": "LVA",
-      "codigo": "428"
-  },
-  {
-      "ordem": 140,
-      "nome": "Lesoto",
-      "sigla2": "LS",
-      "sigla3": "LSO",
-      "codigo": "426"
-  },
-  {
-      "ordem": 141,
-      "nome": "Líbano",
-      "sigla2": "LB",
-      "sigla3": "LBN",
-      "codigo": "422"
-  },
-  {
-      "ordem": 142,
-      "nome": "Libéria",
-      "sigla2": "LR",
-      "sigla3": "LBR",
-      "codigo": "430"
-  },
-  {
-      "ordem": 143,
-      "nome": "Líbia",
-      "sigla2": "LY",
-      "sigla3": "LBY",
-      "codigo": "434"
-  },
-  {
-      "ordem": 144,
-      "nome": "Liechtenstein",
-      "sigla2": "LI",
-      "sigla3": "LIE",
-      "codigo": "438"
-  },
-  {
-      "ordem": 145,
-      "nome": "Lituânia",
-      "sigla2": "LT",
-      "sigla3": "LTU",
-      "codigo": "440"
-  },
-  {
-      "ordem": 146,
-      "nome": "Luxemburgo",
-      "sigla2": "LU",
-      "sigla3": "LUX",
-      "codigo": "442"
-  },
-  {
-      "ordem": 147,
-      "nome": "Macau",
-      "sigla2": "MO",
-      "sigla3": "MAC",
-      "codigo": "446"
-  },
-  {
-      "ordem": 148,
-      "nome": "Macedônia (República Yugoslava)",
-      "sigla2": "MK",
-      "sigla3": "MKD",
-      "codigo": "807"
-  },
-  {
-      "ordem": 149,
-      "nome": "Madagascar",
-      "sigla2": "MG",
-      "sigla3": "MDG",
-      "codigo": "450"
-  },
-  {
-      "ordem": 150,
-      "nome": "Malásia",
-      "sigla2": "MY",
-      "sigla3": "MYS",
-      "codigo": "458"
-  },
-  {
-      "ordem": 151,
-      "nome": "Malaui",
-      "sigla2": "MW",
-      "sigla3": "MWI",
-      "codigo": "454"
-  },
-  {
-      "ordem": 152,
-      "nome": "Maldivas",
-      "sigla2": "MV",
-      "sigla3": "MDV",
-      "codigo": "462"
-  },
-  {
-      "ordem": 153,
-      "nome": "Mali",
-      "sigla2": "ML",
-      "sigla3": "MLI",
-      "codigo": "466"
-  },
-  {
-      "ordem": 154,
-      "nome": "Malta",
-      "sigla2": "MT",
-      "sigla3": "MLT",
-      "codigo": "470"
-  },
-  {
-      "ordem": 155,
-      "nome": "Marrocos",
-      "sigla2": "MA",
-      "sigla3": "MAR",
-      "codigo": "504"
-  },
-  {
-      "ordem": 156,
-      "nome": "Martinica",
-      "sigla2": "MQ",
-      "sigla3": "MTQ",
-      "codigo": "474"
-  },
-  {
-      "ordem": 157,
-      "nome": "Maurício",
-      "sigla2": "MU",
-      "sigla3": "MUS",
-      "codigo": "480"
-  },
-  {
-      "ordem": 158,
-      "nome": "Mauritânia",
-      "sigla2": "MR",
-      "sigla3": "MRT",
-      "codigo": "478"
-  },
-  {
-      "ordem": 159,
-      "nome": "Mayotte",
-      "sigla2": "YT",
-      "sigla3": "MYT",
-      "codigo": "175"
-  },
-  {
-      "ordem": 160,
-      "nome": "México",
-      "sigla2": "MX",
-      "sigla3": "MEX",
-      "codigo": "484"
-  },
-  {
-      "ordem": 161,
-      "nome": "Micronésia",
-      "sigla2": "FM",
-      "sigla3": "FSM",
-      "codigo": "583"
-  },
-  {
-      "ordem": 162,
-      "nome": "Moçambique",
-      "sigla2": "MZ",
-      "sigla3": "MOZ",
-      "codigo": "508"
-  },
-  {
-      "ordem": 163,
-      "nome": "Moldova",
-      "sigla2": "MD",
-      "sigla3": "MDA",
-      "codigo": "498"
-  },
-  {
-      "ordem": 164,
-      "nome": "Mônaco",
-      "sigla2": "MC",
-      "sigla3": "MCO",
-      "codigo": "492"
-  },
-  {
-      "ordem": 165,
-      "nome": "Mongólia",
-      "sigla2": "MN",
-      "sigla3": "MNG",
-      "codigo": "496"
-  },
-  {
-      "ordem": 166,
-      "nome": "Montenegro",
-      "sigla2": "ME",
-      "sigla3": "MNE",
-      "codigo": "499"
-  },
-  {
-      "ordem": 167,
-      "nome": "Montserrat",
-      "sigla2": "MS",
-      "sigla3": "MSR",
-      "codigo": "500"
-  },
-  {
-      "ordem": 168,
-      "nome": "Myanma",
-      "sigla2": "MM",
-      "sigla3": "MMR",
-      "codigo": "104"
-  },
-  {
-      "ordem": 169,
-      "nome": "Namíbia",
-      "sigla2": "NA",
-      "sigla3": "NAM",
-      "codigo": "516"
-  },
-  {
-      "ordem": 170,
-      "nome": "Nauru",
-      "sigla2": "NR",
-      "sigla3": "NRU",
-      "codigo": "520"
-  },
-  {
-      "ordem": 171,
-      "nome": "Nepal",
-      "sigla2": "NP",
-      "sigla3": "NPL",
-      "codigo": "524"
-  },
-  {
-      "ordem": 172,
-      "nome": "Nicarágua",
-      "sigla2": "NI",
-      "sigla3": "NIC",
-      "codigo": "558"
-  },
-  {
-      "ordem": 173,
-      "nome": "Níger",
-      "sigla2": "NE",
-      "sigla3": "NER",
-      "codigo": "562"
-  },
-  {
-      "ordem": 174,
-      "nome": "Nigéria",
-      "sigla2": "NG",
-      "sigla3": "NGA",
-      "codigo": "566"
-  },
-  {
-      "ordem": 175,
-      "nome": "Niue",
-      "sigla2": "NU",
-      "sigla3": "NIU",
-      "codigo": "570"
-  },
-  {
-      "ordem": 176,
-      "nome": "Noruega",
-      "sigla2": "NO",
-      "sigla3": "NOR",
-      "codigo": "578"
-  },
-  {
-      "ordem": 177,
-      "nome": "Nova Caledônia",
-      "sigla2": "NC",
-      "sigla3": "NCL",
-      "codigo": "540"
-  },
-  {
-      "ordem": 178,
-      "nome": "Nova Zelândia",
-      "sigla2": "NZ",
-      "sigla3": "NZL",
-      "codigo": "554"
-  },
-  {
-      "ordem": 179,
-      "nome": "Omã",
-      "sigla2": "OM",
-      "sigla3": "OMN",
-      "codigo": "512"
-  },
-  {
-      "ordem": 180,
-      "nome": "Palau",
-      "sigla2": "PW",
-      "sigla3": "PLW",
-      "codigo": "585"
-  },
-  {
-      "ordem": 181,
-      "nome": "Panamá",
-      "sigla2": "PA",
-      "sigla3": "PAN",
-      "codigo": "591"
-  },
-  {
-      "ordem": 182,
-      "nome": "Papua-Nova Guiné",
-      "sigla2": "PG",
-      "sigla3": "PNG",
-      "codigo": "598"
-  },
-  {
-      "ordem": 183,
-      "nome": "Paquistão",
-      "sigla2": "PK",
-      "sigla3": "PAK",
-      "codigo": "586"
-  },
-  {
-      "ordem": 184,
-      "nome": "Paraguai",
-      "sigla2": "PY",
-      "sigla3": "PRY",
-      "codigo": "600"
-  },
-  {
-      "ordem": 185,
-      "nome": "Peru",
-      "sigla2": "PE",
-      "sigla3": "PER",
-      "codigo": "604"
-  },
-  {
-      "ordem": 186,
-      "nome": "Polinésia Francesa",
-      "sigla2": "PF",
-      "sigla3": "PYF",
-      "codigo": "258"
-  },
-  {
-      "ordem": 187,
-      "nome": "Polônia",
-      "sigla2": "PL",
-      "sigla3": "POL",
-      "codigo": "616"
-  },
-  {
-      "ordem": 188,
-      "nome": "Porto Rico",
-      "sigla2": "PR",
-      "sigla3": "PRI",
-      "codigo": "630"
-  },
-  {
-      "ordem": 189,
-      "nome": "Portugal",
-      "sigla2": "PT",
-      "sigla3": "PRT",
-      "codigo": "620"
-  },
-  {
-      "ordem": 190,
-      "nome": "Qatar",
-      "sigla2": "QA",
-      "sigla3": "QAT",
-      "codigo": "634"
-  },
-  {
-      "ordem": 191,
-      "nome": "Quirguistão",
-      "sigla2": "KG",
-      "sigla3": "KGZ",
-      "codigo": "417"
-  },
-  {
-      "ordem": 192,
-      "nome": "República Centro-Africana",
-      "sigla2": "CF",
-      "sigla3": "CAF",
-      "codigo": "140"
-  },
-  {
-      "ordem": 193,
-      "nome": "República Democrática do Congo",
-      "sigla2": "CD",
-      "sigla3": "COD",
-      "codigo": "180"
-  },
-  {
-      "ordem": 194,
-      "nome": "República Dominicana",
-      "sigla2": "DO",
-      "sigla3": "DOM",
-      "codigo": "214"
-  },
-  {
-      "ordem": 195,
-      "nome": "República Tcheca",
-      "sigla2": "CZ",
-      "sigla3": "CZE",
-      "codigo": "203"
-  },
-  {
-      "ordem": 196,
-      "nome": "Romênia",
-      "sigla2": "RO",
-      "sigla3": "ROM",
-      "codigo": "642"
-  },
-  {
-      "ordem": 197,
-      "nome": "Ruanda",
-      "sigla2": "RW",
-      "sigla3": "RWA",
-      "codigo": "646"
-  },
-  {
-      "ordem": 198,
-      "nome": "Rússia (antiga URSS) - Federação Russa",
-      "sigla2": "RU",
-      "sigla3": "RUS",
-      "codigo": "643"
-  },
-  {
-      "ordem": 199,
-      "nome": "Saara Ocidental",
-      "sigla2": "EH",
-      "sigla3": "ESH",
-      "codigo": "732"
-  },
-  {
-      "ordem": 200,
-      "nome": "Saint Vincente e Granadinas",
-      "sigla2": "VC",
-      "sigla3": "VCT",
-      "codigo": "670"
-  },
-  {
-      "ordem": 201,
-      "nome": "Samoa Americana",
-      "sigla2": "AS",
-      "sigla3": "ASM",
-      "codigo": "016"
-  },
-  {
-      "ordem": 202,
-      "nome": "Samoa Ocidental",
-      "sigla2": "WS",
-      "sigla3": "WSM",
-      "codigo": "882"
-  },
-  {
-      "ordem": 203,
-      "nome": "San Marino",
-      "sigla2": "SM",
-      "sigla3": "SMR",
-      "codigo": "674"
-  },
-  {
-      "ordem": 204,
-      "nome": "Santa Helena",
-      "sigla2": "SH",
-      "sigla3": "SHN",
-      "codigo": "654"
-  },
-  {
-      "ordem": 205,
-      "nome": "Santa Lúcia",
-      "sigla2": "LC",
-      "sigla3": "LCA",
-      "codigo": "662"
-  },
-  {
-      "ordem": 206,
-      "nome": "São Bartolomeu",
-      "sigla2": "BL",
-      "sigla3": "BLM",
-      "codigo": "652"
-  },
-  {
-      "ordem": 207,
-      "nome": "São Cristóvão e Névis",
-      "sigla2": "KN",
-      "sigla3": "KNA",
-      "codigo": "659"
-  },
-  {
-      "ordem": 208,
-      "nome": "São Martim",
-      "sigla2": "MF",
-      "sigla3": "MAF",
-      "codigo": "663"
-  },
-  {
-      "ordem": 209,
-      "nome": "São Tomé e Príncipe",
-      "sigla2": "ST",
-      "sigla3": "STP",
-      "codigo": "678"
-  },
-  {
-      "ordem": 210,
-      "nome": "Senegal",
-      "sigla2": "SN",
-      "sigla3": "SEN",
-      "codigo": "686"
-  },
-  {
-      "ordem": 211,
-      "nome": "Serra Leoa",
-      "sigla2": "SL",
-      "sigla3": "SLE",
-      "codigo": "694"
-  },
-  {
-      "ordem": 212,
-      "nome": "Sérvia",
-      "sigla2": "RS",
-      "sigla3": "SRB",
-      "codigo": "688"
-  },
-  {
-      "ordem": 213,
-      "nome": "Síria",
-      "sigla2": "SY",
-      "sigla3": "SYR",
-      "codigo": "760"
-  },
-  {
-      "ordem": 214,
-      "nome": "Somália",
-      "sigla2": "SO",
-      "sigla3": "SOM",
-      "codigo": "706"
-  },
-  {
-      "ordem": 215,
-      "nome": "Sri Lanka",
-      "sigla2": "LK",
-      "sigla3": "LKA",
-      "codigo": "144"
-  },
-  {
-      "ordem": 216,
-      "nome": "St. Pierre and Miquelon",
-      "sigla2": "PM",
-      "sigla3": "SPM",
-      "codigo": "666"
-  },
-  {
-      "ordem": 217,
-      "nome": "Suazilândia",
-      "sigla2": "SZ",
-      "sigla3": "SWZ",
-      "codigo": "748"
-  },
-  {
-      "ordem": 218,
-      "nome": "Sudão",
-      "sigla2": "SD",
-      "sigla3": "SDN",
-      "codigo": "736"
-  },
-  {
-      "ordem": 219,
-      "nome": "Suécia",
-      "sigla2": "SE",
-      "sigla3": "SWE",
-      "codigo": "752"
-  },
-  {
-      "ordem": 220,
-      "nome": "Suíça",
-      "sigla2": "CH",
-      "sigla3": "CHE",
-      "codigo": "756"
-  },
-  {
-      "ordem": 221,
-      "nome": "Suriname",
-      "sigla2": "SR",
-      "sigla3": "SUR",
-      "codigo": "740"
-  },
-  {
-      "ordem": 222,
-      "nome": "Tadjiquistão",
-      "sigla2": "TJ",
-      "sigla3": "TJK",
-      "codigo": "762"
-  },
-  {
-      "ordem": 223,
-      "nome": "Tailândia",
-      "sigla2": "TH",
-      "sigla3": "THA",
-      "codigo": "764"
-  },
-  {
-      "ordem": 224,
-      "nome": "Taiwan",
-      "sigla2": "TW",
-      "sigla3": "TWN",
-      "codigo": "158"
-  },
-  {
-      "ordem": 225,
-      "nome": "Tanzânia",
-      "sigla2": "TZ",
-      "sigla3": "TZA",
-      "codigo": "834"
-  },
-  {
-      "ordem": 226,
-      "nome": "Território Britânico do Oceano índico",
-      "sigla2": "IO",
-      "sigla3": "IOT",
-      "codigo": "086"
-  },
-  {
-      "ordem": 227,
-      "nome": "Territórios do Sul da França",
-      "sigla2": "TF",
-      "sigla3": "ATF",
-      "codigo": "260"
-  },
-  {
-      "ordem": 228,
-      "nome": "Territórios Palestinos Ocupados",
-      "sigla2": "PS",
-      "sigla3": "PSE",
-      "codigo": "275"
-  },
-  {
-      "ordem": 229,
-      "nome": "Timor Leste",
-      "sigla2": "TP",
-      "sigla3": "TMP",
-      "codigo": "626"
-  },
-  {
-      "ordem": 230,
-      "nome": "Togo",
-      "sigla2": "TG",
-      "sigla3": "TGO",
-      "codigo": "768"
-  },
-  {
-      "ordem": 231,
-      "nome": "Tonga",
-      "sigla2": "TO",
-      "sigla3": "TON",
-      "codigo": "776"
-  },
-  {
-      "ordem": 232,
-      "nome": "Trinidad and Tobago",
-      "sigla2": "TT",
-      "sigla3": "TTO",
-      "codigo": "780"
-  },
-  {
-      "ordem": 233,
-      "nome": "Tunísia",
-      "sigla2": "TN",
-      "sigla3": "TUN",
-      "codigo": "788"
-  },
-  {
-      "ordem": 234,
-      "nome": "Turcomenistão",
-      "sigla2": "TM",
-      "sigla3": "TKM",
-      "codigo": "795"
-  },
-  {
-      "ordem": 235,
-      "nome": "Turquia",
-      "sigla2": "TR",
-      "sigla3": "TUR",
-      "codigo": "792"
-  },
-  {
-      "ordem": 236,
-      "nome": "Tuvalu",
-      "sigla2": "TV",
-      "sigla3": "TUV",
-      "codigo": "798"
-  },
-  {
-      "ordem": 237,
-      "nome": "Ucrânia",
-      "sigla2": "UA",
-      "sigla3": "UKR",
-      "codigo": "804"
-  },
-  {
-      "ordem": 238,
-      "nome": "Uganda",
-      "sigla2": "UG",
-      "sigla3": "UGA",
-      "codigo": "800"
-  },
-  {
-      "ordem": 239,
-      "nome": "Uruguai",
-      "sigla2": "UY",
-      "sigla3": "URY",
-      "codigo": "858"
-  },
-  {
-      "ordem": 240,
-      "nome": "Uzbequistão",
-      "sigla2": "UZ",
-      "sigla3": "UZB",
-      "codigo": "860"
-  },
-  {
-      "ordem": 241,
-      "nome": "Vanuatu",
-      "sigla2": "VU",
-      "sigla3": "VUT",
-      "codigo": "548"
-  },
-  {
-      "ordem": 242,
-      "nome": "Vaticano",
-      "sigla2": "VA",
-      "sigla3": "VAT",
-      "codigo": "336"
-  },
-  {
-      "ordem": 243,
-      "nome": "Venezuela",
-      "sigla2": "VE",
-      "sigla3": "VEN",
-      "codigo": "862"
-  },
-  {
-      "ordem": 244,
-      "nome": "Vietnã",
-      "sigla2": "VN",
-      "sigla3": "VNM",
-      "codigo": "704"
-  },
-  {
-      "ordem": 245,
-      "nome": "Zâmbia",
-      "sigla2": "ZM",
-      "sigla3": "ZMB",
-      "codigo": "894"
-  },
-  {
-      "ordem": 246,
-      "nome": "Zimbábue",
-      "sigla2": "ZW",
-      "sigla3": "ZWE",
-      "codigo": "716"
-  }
+   {
+      "pais": "Afeganist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9a\/Flag_of_Afghanistan.svg\/23px-Flag_of_Afghanistan.svg.png",
+      "ddi": 93,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "\u00c1frica do Sul",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/af\/Flag_of_South_Africa.svg\/23px-Flag_of_South_Africa.svg.png",
+      "ddi": 27,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Alb\u00e2nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/Flag_of_Albania.svg\/21px-Flag_of_Albania.svg.png",
+      "ddi": 355,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Alemanha",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/ba\/Flag_of_Germany.svg\/23px-Flag_of_Germany.svg.png",
+      "ddi": 49,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Andorra",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/19\/Flag_of_Andorra.svg\/22px-Flag_of_Andorra.svg.png",
+      "ddi": 376,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Angola",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Flag_of_Angola.svg\/23px-Flag_of_Angola.svg.png",
+      "ddi": 244,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Anguilla",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b4\/Flag_of_Anguilla.svg\/23px-Flag_of_Anguilla.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Ant\u00edgua e Barbuda",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Flag_of_Antigua_and_Barbuda.svg\/23px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Antilhas Holandesas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ae\/Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg\/23px-Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg.png",
+      "ddi": 599,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Ar\u00e1bia Saudita",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0d\/Flag_of_Saudi_Arabia.svg\/23px-Flag_of_Saudi_Arabia.svg.png",
+      "ddi": 966,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Arg\u00e9lia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/77\/Flag_of_Algeria.svg\/23px-Flag_of_Algeria.svg.png",
+      "ddi": 213,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Argentina",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1a\/Flag_of_Argentina.svg\/23px-Flag_of_Argentina.svg.png",
+      "ddi": 54,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Arm\u00eania",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/Flag_of_Armenia.svg\/23px-Flag_of_Armenia.svg.png",
+      "ddi": 374,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Aruba",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f6\/Flag_of_Aruba.svg\/23px-Flag_of_Aruba.svg.png",
+      "ddi": 297,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Ascens\u00e3o",
+      "img": "Ascens\u00e3o",
+      "ddi": 247,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Austr\u00e1lia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b9\/Flag_of_Australia.svg\/23px-Flag_of_Australia.svg.png",
+      "ddi": 61,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "\u00c1ustria",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/23px-Flag_of_Austria.svg.png",
+      "ddi": 43,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Azerbaij\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/dd\/Flag_of_Azerbaijan.svg\/23px-Flag_of_Azerbaijan.svg.png",
+      "ddi": 994,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Bahamas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/77\/Bahamas_Flag.svg\/23px-Bahamas_Flag.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Bangladesh",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f9\/Flag_of_Bangladesh.svg\/23px-Flag_of_Bangladesh.svg.png",
+      "ddi": 880,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Barbados",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ef\/Flag_of_Barbados.svg\/23px-Flag_of_Barbados.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Bahrein",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2c\/Flag_of_Bahrain.svg\/23px-Flag_of_Bahrain.svg.png",
+      "ddi": 973,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "B\u00e9lgica",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Flag_of_Belgium_%28civil%29.svg\/23px-Flag_of_Belgium_%28civil%29.svg.png",
+      "ddi": 32,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Belize",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e7\/Flag_of_Belize.svg\/23px-Flag_of_Belize.svg.png",
+      "ddi": 501,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Benim",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0a\/Flag_of_Benin.svg\/23px-Flag_of_Benin.svg.png",
+      "ddi": 229,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Bermudas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bf\/Flag_of_Bermuda.svg\/23px-Flag_of_Bermuda.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Bielorr\u00fassia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/85\/Flag_of_Belarus.svg\/23px-Flag_of_Belarus.svg.png",
+      "ddi": 375,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Bol\u00edvia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/48\/Flag_of_Bolivia.svg\/22px-Flag_of_Bolivia.svg.png",
+      "ddi": 591,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "B\u00f3snia e Herzegovina",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bf\/Flag_of_Bosnia_and_Herzegovina.svg\/23px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      "ddi": 387,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Botswana",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fa\/Flag_of_Botswana.svg\/23px-Flag_of_Botswana.svg.png",
+      "ddi": 267,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Brasil",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/05\/Flag_of_Brazil.svg\/22px-Flag_of_Brazil.svg.png",
+      "ddi": 55,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Brunei",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Brunei.svg\/23px-Flag_of_Brunei.svg.png",
+      "ddi": 673,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Bulg\u00e1ria",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9a\/Flag_of_Bulgaria.svg\/23px-Flag_of_Bulgaria.svg.png",
+      "ddi": 359,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Burkina Faso",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/31\/Flag_of_Burkina_Faso.svg\/23px-Flag_of_Burkina_Faso.svg.png",
+      "ddi": 226,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Burundi",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/50\/Flag_of_Burundi.svg\/23px-Flag_of_Burundi.svg.png",
+      "ddi": 257,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "But\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/91\/Flag_of_Bhutan.svg\/23px-Flag_of_Bhutan.svg.png",
+      "ddi": 975,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Cabo Verde",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Flag_of_Cape_Verde.svg\/23px-Flag_of_Cape_Verde.svg.png",
+      "ddi": 238,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Camar\u00f5es",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4f\/Flag_of_Cameroon.svg\/23px-Flag_of_Cameroon.svg.png",
+      "ddi": 237,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Camboja",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/83\/Flag_of_Cambodia.svg\/23px-Flag_of_Cambodia.svg.png",
+      "ddi": 855,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Canad\u00e1",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Canada_%28Pantone%29.svg\/23px-Flag_of_Canada_%28Pantone%29.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica do Norte"
+   },
+   {
+      "pais": "Cazaquist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d3\/Flag_of_Kazakhstan.svg\/23px-Flag_of_Kazakhstan.svg.png",
+      "ddi": 7,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Chade",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4b\/Flag_of_Chad.svg\/23px-Flag_of_Chad.svg.png",
+      "ddi": 235,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Chile",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/78\/Flag_of_Chile.svg\/23px-Flag_of_Chile.svg.png",
+      "ddi": 56,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Rep\u00fablica Popular da China",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fa\/Flag_of_the_People%27s_Republic_of_China.svg\/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "ddi": 86,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Chipre",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d4\/Flag_of_Cyprus.svg\/23px-Flag_of_Cyprus.svg.png",
+      "ddi": 357,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Col\u00f4mbia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/21\/Flag_of_Colombia.svg\/23px-Flag_of_Colombia.svg.png",
+      "ddi": 57,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Comores",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Flag_of_the_Comoros.svg\/23px-Flag_of_the_Comoros.svg.png",
+      "ddi": 269,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "CongoBrazzaville",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Flag_of_the_Republic_of_the_Congo.svg\/23px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      "ddi": 242,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "CongoKinshasa",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6f\/Flag_of_the_Democratic_Republic_of_the_Congo.svg\/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      "ddi": 243,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Coreia do Norte",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/51\/Flag_of_North_Korea.svg\/23px-Flag_of_North_Korea.svg.png",
+      "ddi": 850,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Coreia do Sul",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/09\/Flag_of_South_Korea.svg\/23px-Flag_of_South_Korea.svg.png",
+      "ddi": 82,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Costa do Marfim",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fe\/Flag_of_C%C3%B4te_d%27Ivoire.svg\/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      "ddi": 225,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Costa Rica",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f2\/Flag_of_Costa_Rica.svg\/23px-Flag_of_Costa_Rica.svg.png",
+      "ddi": 506,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Cro\u00e1cia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1b\/Flag_of_Croatia.svg\/23px-Flag_of_Croatia.svg.png",
+      "ddi": 385,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Cuba",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bd\/Flag_of_Cuba.svg\/23px-Flag_of_Cuba.svg.png",
+      "ddi": 53,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Dinamarca",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/20px-Flag_of_Denmark.svg.png",
+      "ddi": 45,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Djibuti",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/34\/Flag_of_Djibouti.svg\/23px-Flag_of_Djibouti.svg.png",
+      "ddi": 253,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Dominica",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c4\/Flag_of_Dominica.svg\/23px-Flag_of_Dominica.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Egipto",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fe\/Flag_of_Egypt.svg\/23px-Flag_of_Egypt.svg.png",
+      "ddi": 20,
+      "continente": "\u00c1frica\/\u00c1sia"
+   },
+   {
+      "pais": "El Salvador",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/34\/Flag_of_El_Salvador.svg\/23px-Flag_of_El_Salvador.svg.png",
+      "ddi": 503,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Emirados \u00c1rabes Unidos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cb\/Flag_of_the_United_Arab_Emirates.svg\/23px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "ddi": 971,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Equador",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e8\/Flag_of_Ecuador.svg\/23px-Flag_of_Ecuador.svg.png",
+      "ddi": 593,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Eritreia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/29\/Flag_of_Eritrea.svg\/23px-Flag_of_Eritrea.svg.png",
+      "ddi": 291,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Eslov\u00e1quia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e6\/Flag_of_Slovakia.svg\/23px-Flag_of_Slovakia.svg.png",
+      "ddi": 421,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Eslov\u00e9nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f0\/Flag_of_Slovenia.svg\/23px-Flag_of_Slovenia.svg.png",
+      "ddi": 386,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Espanha",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9a\/Flag_of_Spain.svg\/23px-Flag_of_Spain.svg.png",
+      "ddi": 34,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Estados Unidos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a4\/Flag_of_the_United_States.svg\/23px-Flag_of_the_United_States.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica do Norte"
+   },
+   {
+      "pais": "Est\u00f3nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8f\/Flag_of_Estonia.svg\/23px-Flag_of_Estonia.svg.png",
+      "ddi": 372,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Eti\u00f3pia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/71\/Flag_of_Ethiopia.svg\/23px-Flag_of_Ethiopia.svg.png",
+      "ddi": 251,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Fiji",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/ba\/Flag_of_Fiji.svg\/23px-Flag_of_Fiji.svg.png",
+      "ddi": 679,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Filipinas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/99\/Flag_of_the_Philippines.svg\/23px-Flag_of_the_Philippines.svg.png",
+      "ddi": 63,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Finl\u00e2ndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bc\/Flag_of_Finland.svg\/23px-Flag_of_Finland.svg.png",
+      "ddi": 358,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Fran\u00e7a",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 33,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Gab\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/04\/Flag_of_Gabon.svg\/20px-Flag_of_Gabon.svg.png",
+      "ddi": 241,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "G\u00e2mbia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/77\/Flag_of_The_Gambia.svg\/23px-Flag_of_The_Gambia.svg.png",
+      "ddi": 220,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Gana",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/19\/Flag_of_Ghana.svg\/23px-Flag_of_Ghana.svg.png",
+      "ddi": 233,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Ge\u00f3rgia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0f\/Flag_of_Georgia.svg\/23px-Flag_of_Georgia.svg.png",
+      "ddi": 995,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Gibraltar",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/02\/Flag_of_Gibraltar.svg\/23px-Flag_of_Gibraltar.svg.png",
+      "ddi": 350,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Granada",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bc\/Flag_of_Grenada.svg\/23px-Flag_of_Grenada.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Gr\u00e9cia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Greece.svg\/23px-Flag_of_Greece.svg.png",
+      "ddi": 30,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Groenl\u00e2ndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/09\/Flag_of_Greenland.svg\/23px-Flag_of_Greenland.svg.png",
+      "ddi": 299,
+      "continente": "Am\u00e9rica do Norte"
+   },
+   {
+      "pais": "Guadalupe",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 590,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Guam",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/07\/Flag_of_Guam.svg\/23px-Flag_of_Guam.svg.png",
+      "ddi": 1,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Guatemala",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ec\/Flag_of_Guatemala.svg\/23px-Flag_of_Guatemala.svg.png",
+      "ddi": 502,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Guiana",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/99\/Flag_of_Guyana.svg\/23px-Flag_of_Guyana.svg.png",
+      "ddi": 592,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Guiana Francesa",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/29\/Flag_of_French_Guiana.svg\/23px-Flag_of_French_Guiana.svg.png",
+      "ddi": 594,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Guin\u00e9",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ed\/Flag_of_Guinea.svg\/23px-Flag_of_Guinea.svg.png",
+      "ddi": 224,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Guin\u00e9Bissau",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/01\/Flag_of_Guinea-Bissau.svg\/23px-Flag_of_Guinea-Bissau.svg.png",
+      "ddi": 245,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Guin\u00e9 Equatorial",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/31\/Flag_of_Equatorial_Guinea.svg\/23px-Flag_of_Equatorial_Guinea.svg.png",
+      "ddi": 240,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Haiti",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/56\/Flag_of_Haiti.svg\/23px-Flag_of_Haiti.svg.png",
+      "ddi": 509,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Honduras",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/79\/Flag_of_Honduras_%282008_Olympics%29.svg\/23px-Flag_of_Honduras_%282008_Olympics%29.svg.png",
+      "ddi": 504,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Hong Kong",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5b\/Flag_of_Hong_Kong.svg\/23px-Flag_of_Hong_Kong.svg.png",
+      "ddi": 852,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Hungria",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c1\/Flag_of_Hungary.svg\/23px-Flag_of_Hungary.svg.png",
+      "ddi": 36,
+      "continente": "Europa"
+   },
+   {
+      "pais": "I\u00eamen",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Flag_of_Yemen.svg\/23px-Flag_of_Yemen.svg.png",
+      "ddi": 967,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Ilhas Cayman",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0f\/Flag_of_the_Cayman_Islands.svg\/23px-Flag_of_the_Cayman_Islands.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Ilha Christmas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/67\/Flag_of_Christmas_Island.svg\/23px-Flag_of_Christmas_Island.svg.png",
+      "ddi": 672,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilhas Cocos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/74\/Flag_of_the_Cocos_%28Keeling%29_Islands.svg\/23px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
+      "ddi": 672,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilhas Cook",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/35\/Flag_of_the_Cook_Islands.svg\/23px-Flag_of_the_Cook_Islands.svg.png",
+      "ddi": 682,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilhas F\u00e9roe",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Flag_of_the_Faroe_Islands.svg\/21px-Flag_of_the_Faroe_Islands.svg.png",
+      "ddi": 298,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Ilha Heard e Ilhas McDonald",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b9\/Flag_of_Australia.svg\/23px-Flag_of_Australia.svg.png",
+      "ddi": 672,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Maldivas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0f\/Flag_of_Maldives.svg\/23px-Flag_of_Maldives.svg.png",
+      "ddi": 960,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Ilhas Malvinas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/83\/Flag_of_the_Falkland_Islands.svg\/23px-Flag_of_the_Falkland_Islands.svg.png",
+      "ddi": 500,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Ilhas Marianas do Norte",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e0\/Flag_of_the_Northern_Mariana_Islands.svg\/23px-Flag_of_the_Northern_Mariana_Islands.svg.png",
+      "ddi": 1,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilhas Marshall",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2e\/Flag_of_the_Marshall_Islands.svg\/23px-Flag_of_the_Marshall_Islands.svg.png",
+      "ddi": 692,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilha Norfolk",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/48\/Flag_of_Norfolk_Island.svg\/23px-Flag_of_Norfolk_Island.svg.png",
+      "ddi": 672,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilhas Salom\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/74\/Flag_of_the_Solomon_Islands.svg\/23px-Flag_of_the_Solomon_Islands.svg.png",
+      "ddi": 677,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ilhas Virgens Americanas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f8\/Flag_of_the_United_States_Virgin_Islands.svg\/23px-Flag_of_the_United_States_Virgin_Islands.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Ilhas Virgens Brit\u00e2nicas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/42\/Flag_of_the_British_Virgin_Islands.svg\/23px-Flag_of_the_British_Virgin_Islands.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "\u00cdndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_India.svg\/23px-Flag_of_India.svg.png",
+      "ddi": 91,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Indon\u00e9sia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9f\/Flag_of_Indonesia.svg\/23px-Flag_of_Indonesia.svg.png",
+      "ddi": 62,
+      "continente": "\u00c1sia\/Oceania"
+   },
+   {
+      "pais": "Ir\u00e3",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ca\/Flag_of_Iran.svg\/23px-Flag_of_Iran.svg.png",
+      "ddi": 98,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Iraque",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f6\/Flag_of_Iraq.svg\/23px-Flag_of_Iraq.svg.png",
+      "ddi": 964,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Irlanda",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/45\/Flag_of_Ireland.svg\/23px-Flag_of_Ireland.svg.png",
+      "ddi": 353,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Isl\u00e2ndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/21px-Flag_of_Iceland.svg.png",
+      "ddi": 354,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Israel",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d4\/Flag_of_Israel.svg\/21px-Flag_of_Israel.svg.png",
+      "ddi": 972,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "It\u00e1lia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Flag_of_Italy.svg\/23px-Flag_of_Italy.svg.png",
+      "ddi": 39,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Jamaica",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0a\/Flag_of_Jamaica.svg\/23px-Flag_of_Jamaica.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Jap\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/Flag_of_Japan.svg\/23px-Flag_of_Japan.svg.png",
+      "ddi": 81,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Jord\u00e2nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Flag_of_Jordan.svg\/23px-Flag_of_Jordan.svg.png",
+      "ddi": 962,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Kiribati",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d3\/Flag_of_Kiribati.svg\/23px-Flag_of_Kiribati.svg.png",
+      "ddi": 686,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Kosovo",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1f\/Flag_of_Kosovo.svg\/21px-Flag_of_Kosovo.svg.png",
+      "ddi": 383,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Kuwait",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/aa\/Flag_of_Kuwait.svg\/23px-Flag_of_Kuwait.svg.png",
+      "ddi": 965,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Laos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/56\/Flag_of_Laos.svg\/23px-Flag_of_Laos.svg.png",
+      "ddi": 856,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Lesoto",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4a\/Flag_of_Lesotho.svg\/23px-Flag_of_Lesotho.svg.png",
+      "ddi": 266,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Let\u00f4nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/84\/Flag_of_Latvia.svg\/23px-Flag_of_Latvia.svg.png",
+      "ddi": 371,
+      "continente": "Europa"
+   },
+   {
+      "pais": "L\u00edbano",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/59\/Flag_of_Lebanon.svg\/23px-Flag_of_Lebanon.svg.png",
+      "ddi": 961,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Lib\u00e9ria",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b8\/Flag_of_Liberia.svg\/23px-Flag_of_Liberia.svg.png",
+      "ddi": 231,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "L\u00edbia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/05\/Flag_of_Libya.svg\/23px-Flag_of_Libya.svg.png",
+      "ddi": 218,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Liechtenstein",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/47\/Flag_of_Liechtenstein.svg\/23px-Flag_of_Liechtenstein.svg.png",
+      "ddi": 423,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Litu\u00e2nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/11\/Flag_of_Lithuania.svg\/23px-Flag_of_Lithuania.svg.png",
+      "ddi": 370,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Luxemburgo",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/da\/Flag_of_Luxembourg.svg\/23px-Flag_of_Luxembourg.svg.png",
+      "ddi": 352,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Macau",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/63\/Flag_of_Macau.svg\/23px-Flag_of_Macau.svg.png",
+      "ddi": 853,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Rep\u00fablica da Maced\u00f4nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/79\/Flag_of_North_Macedonia.svg\/23px-Flag_of_North_Macedonia.svg.png",
+      "ddi": 389,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Madagascar",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bc\/Flag_of_Madagascar.svg\/23px-Flag_of_Madagascar.svg.png",
+      "ddi": 261,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Mal\u00e1sia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/Flag_of_Malaysia.svg\/23px-Flag_of_Malaysia.svg.png",
+      "ddi": 60,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Malawi",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d1\/Flag_of_Malawi.svg\/23px-Flag_of_Malawi.svg.png",
+      "ddi": 265,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Mali",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Flag_of_Mali.svg\/23px-Flag_of_Mali.svg.png",
+      "ddi": 223,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Malta",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/73\/Flag_of_Malta.svg\/23px-Flag_of_Malta.svg.png",
+      "ddi": 356,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Marrocos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2c\/Flag_of_Morocco.svg\/23px-Flag_of_Morocco.svg.png",
+      "ddi": 212,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Martinica",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 596,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Maur\u00edcia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/77\/Flag_of_Mauritius.svg\/23px-Flag_of_Mauritius.svg.png",
+      "ddi": 230,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Maurit\u00e2nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/43\/Flag_of_Mauritania.svg\/23px-Flag_of_Mauritania.svg.png",
+      "ddi": 222,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Mayotte",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 269,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "M\u00e9xico",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Flag_of_Mexico.svg\/23px-Flag_of_Mexico.svg.png",
+      "ddi": 52,
+      "continente": "Am\u00e9rica do Norte"
+   },
+   {
+      "pais": "Estados Federados da Micron\u00e9sia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e4\/Flag_of_the_Federated_States_of_Micronesia.svg\/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+      "ddi": 691,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Mo\u00e7ambique",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d0\/Flag_of_Mozambique.svg\/23px-Flag_of_Mozambique.svg.png",
+      "ddi": 258,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Mold\u00e1via",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/27\/Flag_of_Moldova.svg\/23px-Flag_of_Moldova.svg.png",
+      "ddi": 373,
+      "continente": "Europa"
+   },
+   {
+      "pais": "M\u00f4naco",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ea\/Flag_of_Monaco.svg\/19px-Flag_of_Monaco.svg.png",
+      "ddi": 377,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Mong\u00f3lia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4c\/Flag_of_Mongolia.svg\/23px-Flag_of_Mongolia.svg.png",
+      "ddi": 976,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Montenegro",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/64\/Flag_of_Montenegro.svg\/23px-Flag_of_Montenegro.svg.png",
+      "ddi": 382,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Montserrat",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d0\/Flag_of_Montserrat.svg\/23px-Flag_of_Montserrat.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Myanmar",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8c\/Flag_of_Myanmar.svg\/23px-Flag_of_Myanmar.svg.png",
+      "ddi": 95,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Nam\u00edbia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/00\/Flag_of_Namibia.svg\/23px-Flag_of_Namibia.svg.png",
+      "ddi": 264,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Nauru",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/30\/Flag_of_Nauru.svg\/23px-Flag_of_Nauru.svg.png",
+      "ddi": 674,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Nepal",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/Flag_of_Nepal.svg\/12px-Flag_of_Nepal.svg.png",
+      "ddi": 977,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Nicar\u00e1gua",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/19\/Flag_of_Nicaragua.svg\/23px-Flag_of_Nicaragua.svg.png",
+      "ddi": 505,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "N\u00edger",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f4\/Flag_of_Niger.svg\/18px-Flag_of_Niger.svg.png",
+      "ddi": 227,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Nig\u00e9ria",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/79\/Flag_of_Nigeria.svg\/23px-Flag_of_Nigeria.svg.png",
+      "ddi": 234,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Niue",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/01\/Flag_of_Niue.svg\/23px-Flag_of_Niue.svg.png",
+      "ddi": 683,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Noruega",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/21px-Flag_of_Norway.svg.png",
+      "ddi": 47,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Nova Caled\u00f4nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/26\/Flags_of_New_Caledonia.svg\/40px-Flags_of_New_Caledonia.svg.png",
+      "ddi": 687,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Nova Zel\u00e2ndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3e\/Flag_of_New_Zealand.svg\/23px-Flag_of_New_Zealand.svg.png",
+      "ddi": 64,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Om\u00e3",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/dd\/Flag_of_Oman.svg\/23px-Flag_of_Oman.svg.png",
+      "ddi": 968,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Pa\u00edses Baixos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/23px-Flag_of_the_Netherlands.svg.png",
+      "ddi": 31,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Palau",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/48\/Flag_of_Palau.svg\/23px-Flag_of_Palau.svg.png",
+      "ddi": 680,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Palestina",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/00\/Flag_of_Palestine.svg\/23px-Flag_of_Palestine.svg.png",
+      "ddi": 970,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Panam\u00e1",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ab\/Flag_of_Panama.svg\/23px-Flag_of_Panama.svg.png",
+      "ddi": 507,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "PapuaNova Guin\u00e9",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e3\/Flag_of_Papua_New_Guinea.svg\/20px-Flag_of_Papua_New_Guinea.svg.png",
+      "ddi": 675,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Paquist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/32\/Flag_of_Pakistan.svg\/23px-Flag_of_Pakistan.svg.png",
+      "ddi": 92,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Paraguai",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/27\/Flag_of_Paraguay.svg\/23px-Flag_of_Paraguay.svg.png",
+      "ddi": 595,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Peru",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cf\/Flag_of_Peru.svg\/23px-Flag_of_Peru.svg.png",
+      "ddi": 51,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Polin\u00e9sia Francesa",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/db\/Flag_of_French_Polynesia.svg\/23px-Flag_of_French_Polynesia.svg.png",
+      "ddi": 689,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Pol\u00f4nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/12\/Flag_of_Poland.svg\/23px-Flag_of_Poland.svg.png",
+      "ddi": 48,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Porto Rico",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/28\/Flag_of_Puerto_Rico.svg\/23px-Flag_of_Puerto_Rico.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Portugal",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/23px-Flag_of_Portugal.svg.png",
+      "ddi": 351,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Qatar",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/65\/Flag_of_Qatar.svg\/23px-Flag_of_Qatar.svg.png",
+      "ddi": 974,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Qu\u00eania",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/49\/Flag_of_Kenya.svg\/23px-Flag_of_Kenya.svg.png",
+      "ddi": 254,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Quirguist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c7\/Flag_of_Kyrgyzstan.svg\/23px-Flag_of_Kyrgyzstan.svg.png",
+      "ddi": 996,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Reino Unido",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ae\/Flag_of_the_United_Kingdom.svg\/23px-Flag_of_the_United_Kingdom.svg.png",
+      "ddi": 44,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Rep\u00fablica CentroAfricana",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6f\/Flag_of_the_Central_African_Republic.svg\/23px-Flag_of_the_Central_African_Republic.svg.png",
+      "ddi": 236,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Rep\u00fablica Dominicana",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9f\/Flag_of_the_Dominican_Republic.svg\/23px-Flag_of_the_Dominican_Republic.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Rep\u00fablica Tcheca",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cb\/Flag_of_the_Czech_Republic.svg\/23px-Flag_of_the_Czech_Republic.svg.png",
+      "ddi": 420,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Reuni\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 262,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Rom\u00eania",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/73\/Flag_of_Romania.svg\/23px-Flag_of_Romania.svg.png",
+      "ddi": 40,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Ruanda",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/17\/Flag_of_Rwanda.svg\/23px-Flag_of_Rwanda.svg.png",
+      "ddi": 250,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "R\u00fassia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Flag_of_Russia.svg\/23px-Flag_of_Russia.svg.png",
+      "ddi": 7,
+      "continente": "Europa\/\u00c1sia"
+   },
+   {
+      "pais": "Saara Ocidental",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/26\/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg\/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+      "ddi": 212,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Samoa",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/31\/Flag_of_Samoa.svg\/23px-Flag_of_Samoa.svg.png",
+      "ddi": 685,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Samoa Americana",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/87\/Flag_of_American_Samoa.svg\/23px-Flag_of_American_Samoa.svg.png",
+      "ddi": 1,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Santa Helena territ\u00f3rio",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/00\/Flag_of_Saint_Helena.svg\/23px-Flag_of_Saint_Helena.svg.png",
+      "ddi": 290,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Santa L\u00facia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9f\/Flag_of_Saint_Lucia.svg\/23px-Flag_of_Saint_Lucia.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "S\u00e3o Crist\u00f3v\u00e3o e Nevis",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fe\/Flag_of_Saint_Kitts_and_Nevis.svg\/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "S\u00e3o Marinho",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b1\/Flag_of_San_Marino.svg\/20px-Flag_of_San_Marino.svg.png",
+      "ddi": 378,
+      "continente": "Europa"
+   },
+   {
+      "pais": "SaintPierre e Miquelon",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 508,
+      "continente": "Am\u00e9rica do Norte"
+   },
+   {
+      "pais": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4f\/Flag_of_Sao_Tome_and_Principe.svg\/23px-Flag_of_Sao_Tome_and_Principe.svg.png",
+      "ddi": 239,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "S\u00e3o Vicente e Granadinas",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6d\/Flag_of_Saint_Vincent_and_the_Grenadines.svg\/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Seicheles",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Flag_of_Seychelles.svg\/23px-Flag_of_Seychelles.svg.png",
+      "ddi": 248,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Senegal",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fd\/Flag_of_Senegal.svg\/23px-Flag_of_Senegal.svg.png",
+      "ddi": 221,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Serra Leoa",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/17\/Flag_of_Sierra_Leone.svg\/23px-Flag_of_Sierra_Leone.svg.png",
+      "ddi": 232,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "S\u00e9rvia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/ff\/Flag_of_Serbia.svg\/23px-Flag_of_Serbia.svg.png",
+      "ddi": 381,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Singapura",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/48\/Flag_of_Singapore.svg\/23px-Flag_of_Singapore.svg.png",
+      "ddi": 65,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "S\u00edria",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/53\/Flag_of_Syria.svg\/23px-Flag_of_Syria.svg.png",
+      "ddi": 963,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Som\u00e1lia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a0\/Flag_of_Somalia.svg\/23px-Flag_of_Somalia.svg.png",
+      "ddi": 252,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Sri Lanka",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/11\/Flag_of_Sri_Lanka.svg\/23px-Flag_of_Sri_Lanka.svg.png",
+      "ddi": 94,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Suazil\u00e2ndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fb\/Flag_of_Eswatini.svg\/23px-Flag_of_Eswatini.svg.png",
+      "ddi": 268,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Sud\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/01\/Flag_of_Sudan.svg\/23px-Flag_of_Sudan.svg.png",
+      "ddi": 249,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Sud\u00e3o do Sul",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7a\/Flag_of_South_Sudan.svg\/23px-Flag_of_South_Sudan.svg.png",
+      "ddi": 211,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Su\u00e9cia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4c\/Flag_of_Sweden.svg\/23px-Flag_of_Sweden.svg.png",
+      "ddi": 46,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Su\u00ed\u00e7a",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Flag_of_Switzerland.svg\/16px-Flag_of_Switzerland.svg.png",
+      "ddi": 41,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Suriname",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/60\/Flag_of_Suriname.svg\/23px-Flag_of_Suriname.svg.png",
+      "ddi": 597,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Tadjiquist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d0\/Flag_of_Tajikistan.svg\/23px-Flag_of_Tajikistan.svg.png",
+      "ddi": 992,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Tail\u00e2ndia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a9\/Flag_of_Thailand.svg\/23px-Flag_of_Thailand.svg.png",
+      "ddi": 66,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Rep\u00fablica da China",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/72\/Flag_of_the_Republic_of_China.svg\/23px-Flag_of_the_Republic_of_China.svg.png",
+      "ddi": 886,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Tanz\u00e2nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Flag_of_Tanzania.svg\/23px-Flag_of_Tanzania.svg.png",
+      "ddi": 255,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/65\/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg\/23px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
+      "ddi": 246,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "TimorLeste",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/26\/Flag_of_East_Timor.svg\/23px-Flag_of_East_Timor.svg.png",
+      "ddi": 670,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Togo",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/68\/Flag_of_Togo.svg\/23px-Flag_of_Togo.svg.png",
+      "ddi": 228,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Tokelau",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8e\/Flag_of_Tokelau.svg\/23px-Flag_of_Tokelau.svg.png",
+      "ddi": 690,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Tonga",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9a\/Flag_of_Tonga.svg\/23px-Flag_of_Tonga.svg.png",
+      "ddi": 676,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Trinidad e Tobago",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/64\/Flag_of_Trinidad_and_Tobago.svg\/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Tun\u00edsia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Tunisia.svg\/23px-Flag_of_Tunisia.svg.png",
+      "ddi": 216,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Turcas e Caicos",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a0\/Flag_of_the_Turks_and_Caicos_Islands.svg\/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+      "ddi": 1,
+      "continente": "Am\u00e9rica Central"
+   },
+   {
+      "pais": "Turquemenist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1b\/Flag_of_Turkmenistan.svg\/23px-Flag_of_Turkmenistan.svg.png",
+      "ddi": 993,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Turquia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b4\/Flag_of_Turkey.svg\/23px-Flag_of_Turkey.svg.png",
+      "ddi": 90,
+      "continente": "\u00c1sia\/\/Europa"
+   },
+   {
+      "pais": "Tuvalu",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Flag_of_Tuvalu.svg\/23px-Flag_of_Tuvalu.svg.png",
+      "ddi": 688,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Ucr\u00e2nia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/49\/Flag_of_Ukraine.svg\/23px-Flag_of_Ukraine.svg.png",
+      "ddi": 380,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Uganda",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4e\/Flag_of_Uganda.svg\/23px-Flag_of_Uganda.svg.png",
+      "ddi": 256,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Uruguai",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fe\/Flag_of_Uruguay.svg\/23px-Flag_of_Uruguay.svg.png",
+      "ddi": 598,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Uzbequist\u00e3o",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/84\/Flag_of_Uzbekistan.svg\/23px-Flag_of_Uzbekistan.svg.png",
+      "ddi": 998,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Vanuatu",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bc\/Flag_of_Vanuatu.svg\/23px-Flag_of_Vanuatu.svg.png",
+      "ddi": 678,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Vaticano",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/00\/Flag_of_the_Vatican_City.svg\/15px-Flag_of_the_Vatican_City.svg.png",
+      "ddi": 379,
+      "continente": "Europa"
+   },
+   {
+      "pais": "Venezuela",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/06\/Flag_of_Venezuela.svg\/23px-Flag_of_Venezuela.svg.png",
+      "ddi": 58,
+      "continente": "Am\u00e9rica do Sul"
+   },
+   {
+      "pais": "Vietn\u00e3",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/21\/Flag_of_Vietnam.svg\/23px-Flag_of_Vietnam.svg.png",
+      "ddi": 84,
+      "continente": "\u00c1sia"
+   },
+   {
+      "pais": "Wallis e Futuna",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/23px-Flag_of_France.svg.png",
+      "ddi": 681,
+      "continente": "Oceania"
+   },
+   {
+      "pais": "Z\u00e2mbia",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/06\/Flag_of_Zambia.svg\/23px-Flag_of_Zambia.svg.png",
+      "ddi": 260,
+      "continente": "\u00c1frica"
+   },
+   {
+      "pais": "Zimb\u00e1bue",
+      "img": "https:\/\/\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6a\/Flag_of_Zimbabwe.svg\/23px-Flag_of_Zimbabwe.svg.png",
+      "ddi": 263,
+      "continente": "\u00c1frica"
+   }
 ]

@@ -9,10 +9,7 @@ import toast from "react-hot-toast";
 import paises from '../data/paises.json'
 
 export default function Home() {
-  const [listCountrys, setListCountrys] = useState([]);
-  useEffect(() => {
-    setListCountrys(paises)
-  }, []);
+
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -79,11 +76,18 @@ export default function Home() {
                 readOnly={success}
               />
 
-              <div>
-
+              <div className={styles.phone}>
+                <select name="" id="" defaultValue="">
+                  <option value="">DDI</option>
+                  {paises.map(pais => (
+                    <option key={pais.ddi} value={pais.ddi}>
+                      + {pais.ddi}
+                    </option>
+                  ))}
+                </select>
                 <input
                   type="text"
-                  placeholder='Telefone     (+55) 00 00000-0000'
+                  placeholder='00 00000-0000'
                   value={phone}
                   onChange={e => setPhone(e.target.value)}
                   readOnly={success}
@@ -118,9 +122,9 @@ export default function Home() {
             >
             </iframe>
           </div>
-        </div>
+        </div >
 
-      </main>
+      </main >
       {/* <div className={styles.containerdefault}>
         <h2>Veja o que nossos clientes estão falando:</h2>
         <div>
@@ -149,6 +153,6 @@ export default function Home() {
           </div>
         </div>
       </footer> */}
-    </div>
+    </div >
   )
 }

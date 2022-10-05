@@ -140,7 +140,13 @@
 .icons {
   display: flex;
 }
-
+.phone{
+  display:flex;
+  flex-direction:row;
+}
+.phone select{
+  width: 40%
+}
 @media (max-width: 1360px) {
   .mainFormVideo {
     flex-direction: column-reverse;

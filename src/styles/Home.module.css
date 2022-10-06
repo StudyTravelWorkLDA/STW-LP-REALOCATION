@@ -25,6 +25,7 @@
   flex-direction: row;
   width: 80%;
   margin-top: 76px;
+  margin:0 auto;
 }
 .video {
   margin-left: 24px;
@@ -151,6 +152,8 @@
 @media (max-width: 1360px) {
   .mainFormVideo {
     flex-direction: column-reverse;
+    justify-content:center;
+    align-items:center;
   }
   .video {
     margin-left: 0px;

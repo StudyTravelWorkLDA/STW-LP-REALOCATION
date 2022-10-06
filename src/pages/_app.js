@@ -1,8 +1,10 @@
+import { useRouter } from 'next/router';
 import { useEffect } from 'react'
 import { Toaster } from 'react-hot-toast'
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
+  const router = useRouter();
   useEffect(() => {
     import('react-facebook-pixel')
       .then((x) => x.default)
@@ -13,7 +15,7 @@ function MyApp({ Component, pageProps }) {
           ReactPixel.pageView()
         })
       })
-  }, []);
+  }, [router.events]);
   return (
     <>
       <Component {...pageProps} />
